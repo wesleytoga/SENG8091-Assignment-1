@@ -61,3 +61,22 @@ My goal is to come prepared with questions, assumptions and also plan early so t
 - Works on phones and tablets
 - Secure, especially for personal info
 - Can grow as the business grows
+
+## 3. Questions I Plan to Ask
+
+### About What They Do Now
+- Can you brief me on how you onboard new employees?
+- From start to finish, what are the steps a customer go through to sign up their pet?
+- Where do you notice delays or confusion?
+- Do different staff members go about onboarding or attending to customers in different ways?
+
+### About What They Want
+- What would an ideal onboarding process look like?
+- How would you know if the new system is working well?
+- What would make life easier for your staff and clients?
+
+## About Their Tech Infrastructure
+- What tools or software (e.g ERP, CRM) are you using right now?
+- How do you handle payments?
+- Would you need this solution to connect to other systems like billing or scheduling?
+- Do you have data we would need to move to a new system?
