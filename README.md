@@ -14,7 +14,7 @@ My goal is to come prepared with questions, assumptions and also plan early so t
 ### Assumptions About the Business
 1. **The daycare opens only on weekdays and roughly 7 AM to 7 PM**
    I will confirm this in the meeting
-2. **They probably have about 5 to 15 staffs**
+2. **They probably have about 5 to 15 staff**
    I will confirm this from the manager
 3. **I estimate their active customers to be around 50 to 200.**
    I will request actual client data or their projections
@@ -109,3 +109,23 @@ My goal is to come prepared with questions, assumptions and also plan early so t
 - Set up dev tools and testing plans
 - Outline phases of development (sprints)
 - Plan training and rollout
+
+## 7. What Success Looks Like
+
+### Numbers We Can Measure
+- Reduce employee onboarding time to half
+- Make it easy for customer onboarding and consistent with it for at least 90% of the time
+- Fewer onboarding related errors or issues. Target should be around a 75% drop
+- More satisfied customers (we can evaluate this through surveys or feedback)
+
+### Other Signs We’re On Track
+- Staff feel more confident with new process
+- Customers say it’s easier to get started
+- Managers can track progress easily
+
+
+---
+
+**Course:** SENG8091 – Software Engineering Principles  
+**Assignment:** #1 – Getting Organized  
+**Date:** Tuesday, May 27 2025
