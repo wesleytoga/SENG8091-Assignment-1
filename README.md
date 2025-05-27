@@ -75,8 +75,16 @@ My goal is to come prepared with questions, assumptions and also plan early so t
 - How would you know if the new system is working well?
 - What would make life easier for your staff and clients?
 
-## About Their Tech Infrastructure
+### About Their Tech Infrastructure
 - What tools or software (e.g ERP, CRM) are you using right now?
 - How do you handle payments?
 - Would you need this solution to connect to other systems like billing or scheduling?
 - Do you have data we would need to move to a new system?
+
+
+## 4. Follow-Up Clarification Questions
+- What works well with your current onboarding system?
+- Can you share specific customer feedback?
+- Does onboarding time impact staff retention?
+- Who will use what parts of the system?
+- What are your constraints around training and rollout?
