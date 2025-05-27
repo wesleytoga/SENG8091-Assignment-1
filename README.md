@@ -123,6 +123,20 @@ My goal is to come prepared with questions, assumptions and also plan early so t
 - Customers say it’s easier to get started
 - Managers can track progress easily
 
+---
+
+## References
+
+### Tools Used
+- GitHub. (n.d.). *Version control platform for project tracking*. Retrieved from https://github.com
+- Visual Studio Code. (n.d.). *Code editor used to write and manage markdown*. Retrieved from https://code.visualstudio.com
+- Grammarly. (n.d.). *Grammar and clarity checking tool*. Retrieved from https://www.grammarly.com
+
+### Course Materials
+- Conestoga College. (2025). *SENG8091 Course Slides: Week 1–3*. Conestoga eConestoga Portal.
+
+### Case Study Referenced
+- Puptown Waterloo. (n.d.). Dog daycare, boarding & grooming in Waterloo. Retrieved May 27, 2025, from https://puptownwaterloo.ca/
 
 ---
 
