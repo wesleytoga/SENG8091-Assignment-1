@@ -29,3 +29,35 @@ My goal is to come prepared with questions, assumptions and also plan early so t
 7. **The daycares' budget might be tight. So, they will need a phased and affordable solution**
    I will ask what is realistic for them in terms of cost 
    
+
+## 2. Requirements Breakdown
+
+### What the System Needs to Do (Functional Requirements)
+#### For the Owners (My Client)
+- Dashboard to view onboarding progress for both staff and clients
+- Manage employee roles, permissions, and training progress
+- Edit Onboarding workflows and form templates
+- Access to reports
+- Export data for compliance or audit purposes
+
+#### For Employees
+- Create a standard training module accessible via their website
+- Track onboarding progress
+- Confirm employees are ready before they start working alone
+- Make sure access is based on roles
+- Store all key documents in one place
+
+#### For Pet Owners (Customers)
+- Let them register online through a user-friendly portal
+- Let them fill out required forms e.g. vaccination records
+- Allow them to create pet profiles (with medical or emergency information)
+- Handle service agreements and payment setup
+- Automate basic approvals and progress tracking
+- They should be able to communicate with staffs if needed
+
+### System Qualities (Non-Functional)
+- Easy to use for everyone
+- Data is securely stored
+- Works on phones and tablets
+- Secure, especially for personal info
+- Can grow as the business grows
