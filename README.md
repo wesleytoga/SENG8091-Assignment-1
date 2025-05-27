@@ -20,4 +20,12 @@ My goal is to come prepared with questions, assumptions and also plan early so t
    I will request actual client data or their projections
 4. **Their onboarding process for both employee and client is done manually or with paper**
    I will observe this since it's a physical meeting or ask for examples.
+
+### Assumptions About Tech and Tools
+5. **They don't use many digital tools. I would guess maybe just internet and spreadsheets.**
+   I will ask about their current setup
+6. **Their staff may not be tech savy but may be familiar with basic computer use**
+   I will get a sense of this from talking to them
+7. **The daycares' budget might be tight. So, they will need a phased and affordable solution**
+   I will ask what is realistic for them in terms of cost 
    
