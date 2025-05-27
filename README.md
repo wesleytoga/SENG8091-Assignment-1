@@ -88,3 +88,24 @@ My goal is to come prepared with questions, assumptions and also plan early so t
 - Does onboarding time impact staff retention?
 - Who will use what parts of the system?
 - What are your constraints around training and rollout?
+
+## 5. Tasks to Kick Off the Project
+
+### Step 1: Learn and Analyze
+- Interview stakeholders
+- Watch current onboarding sessions
+- Write down current workflows
+- Collect any documents or checklists they use
+- Identify different user roles (staff, clients)
+- Define what success looks like
+
+### Step 2: Plan the System
+- Write clear requirements
+- Sketch out sample screens or workflows
+- Draft a list of features needed
+- Decide how users will log in and what they’ll see
+
+### Step 3: Prepare for Development
+- Set up dev tools and testing plans
+- Outline phases of development (sprints)
+- Plan training and rollout
